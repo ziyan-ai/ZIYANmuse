@@ -8,15 +8,23 @@ A reusable Agent Skill for turning video ideas, references, draft prompts, and g
 - `references/workflows.md` — guidance for single shots, multi-shot work, references, and prompt revision
 - `agents/openai.yaml` — Codex interface metadata
 
-## Install in Codex
+## Download
 
-Copy this folder into your Codex skills directory, for example:
+Open the repository's **Code → Download ZIP** menu, or clone it:
+
+```bash
+git clone https://github.com/ziyan-ai/ZIYANmuse.git
+```
+
+## Install and invoke in Codex
+
+Place the repository contents in a skill folder under your Codex skills directory:
 
 ```text
 %USERPROFILE%\.codex\skills\muse-video-prompt\
 ```
 
-Then invoke it in a chat with:
+For example, after cloning, copy the repository folder to that path. Then invoke it in a chat with:
 
 ```text
 $muse-video-prompt
@@ -24,4 +32,4 @@ $muse-video-prompt
 
 ## License
 
-Choose and add a license before publishing. Do not imply affiliation with Muse, Meta, or the repository that prompted this project. Review the wording and test it with your target agent before publishing.
+This is a community skill and is not affiliated with Muse or Meta. Review the wording and test it with your target agent before relying on it.
