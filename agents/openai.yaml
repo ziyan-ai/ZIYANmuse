@@ -1,0 +1,4 @@
+interface:
+  display_name: "Muse Video Prompt Director"
+  short_description: "Turn video ideas and references into usable prompts"
+  default_prompt: "Use $muse-video-prompt to develop a video-generation prompt from my idea or reference."
