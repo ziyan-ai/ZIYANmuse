@@ -1,0 +1,10 @@
+{
+  "name": "rea-ziyanai",
+  "version": "0.1.0",
+  "description": "逆向拆解视频：逐镜头判断实拍 / AI / 3D / 代码渲染 / 录屏，拆剪辑包装、声音和真实素材，给出复刻方案。",
+  "author": { "name": "ZIYAN" },
+  "homepage": "https://github.com/ziyan-ai/ZIYANmuse/tree/rea-ziyanai",
+  "repository": "https://github.com/ziyan-ai/ZIYANmuse",
+  "license": "Apache-2.0",
+  "keywords": ["video", "forensics", "ai-video", "remake"]
+}

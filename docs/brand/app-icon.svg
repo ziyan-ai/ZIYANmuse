@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none" aria-hidden="true" focusable="false">
+  <rect width="80" height="80" rx="18" fill="#6644d8"/><g class="frame-back"><path d="M19 16h34a8 8 0 0 1 8 8v30" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/></g>
+  <g class="frame-face">
+    <path d="M13 27h39a8 8 0 0 1 8 8v26H21a8 8 0 0 1-8-8V27Z" fill="#ffffff"/>
+    <path class="frame-tail" d="m64 49 10 12H64V49Z" fill="#ffffff"/>
+    <g class="frame-eyes" fill="#6644d8"><rect x="25" y="37" width="7" height="14" rx="3.5"/><rect x="43" y="37" width="7" height="14" rx="3.5"/></g>
+  </g>
+</svg>

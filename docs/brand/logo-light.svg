@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 128" fill="none" role="img" aria-label="rea-ziyanai">
+  <g transform="translate(10,24)">
+    <path d="M19 16h34a8 8 0 0 1 8 8v30" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+    <path d="M13 27h39a8 8 0 0 1 8 8v26H21a8 8 0 0 1-8-8V27Z" fill="#ffffff"/>
+    <path d="m64 49 10 12H64V49Z" fill="#ffffff"/>
+    <g fill="#0d1117"><rect x="25" y="37" width="7" height="14" rx="3.5"/><rect x="43" y="37" width="7" height="14" rx="3.5"/></g>
+  </g>
+  <text x="110" y="82" font-family="Manrope, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="-2.6" fill="#ffffff">rea-ziyanai<tspan fill="#b6a0f7">.</tspan></text>
+</svg>
